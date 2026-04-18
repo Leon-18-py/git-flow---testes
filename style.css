@@ -1,0 +1,19 @@
+* {  
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+body {
+  background: #222831;
+  color: #DDDDDD;
+  min-height: 100vh;
+  padding: 20px 15px;
+  line-height: 1.5;
+}
+
+div{
+    padding: 5px;
+    margin: 20px;
+}
+
